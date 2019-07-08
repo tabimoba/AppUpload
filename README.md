@@ -9,6 +9,8 @@ MODx Evolution / EvolutionCMS 用の画像/ファイルアップロードプラ�
 
 [@mio3io](https://twitter.com/mio3io)さんが作成されたMODx Evolution用プラグインAppUpload（現在は非公開）がオリジナルになります。オリジナルの機能に加え、最新版のMODx Evolution (1.0.22J)への対応と、画像以外のファイルアップロードへの対応を行っています。
 
+なお、現状は私自身が使うためのコードとなっているのと、他の環境を想定した動作検証を行っていません。ぼちぼち修正していく予定ですが、おそらくバグが多いことを予めご了承ください。
+
 (For Non-Japanese users)
 
 AppUpload is a Image / File upload plugin for MODx Evolution and Evolution CMS. You can attach your file(s) to MODx resource and save to under res directory.
